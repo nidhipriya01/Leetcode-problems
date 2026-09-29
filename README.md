@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0507-perfect-number) |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
