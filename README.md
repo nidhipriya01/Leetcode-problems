@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0001-two-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
