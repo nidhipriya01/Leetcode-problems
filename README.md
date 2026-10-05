@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0204-count-primes](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0204-count-primes) |
 | [0992-subarrays-with-k-different-integers](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
@@ -46,4 +48,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nidhipriya01/Leetcode-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
